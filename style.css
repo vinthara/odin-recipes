@@ -1,0 +1,16 @@
+.h1-style,
+.h3-style {
+    color:red;
+}
+
+a {
+    color:blue;
+}
+
+a:hover {
+    color:red;
+}
+
+p {
+    background-color: rgb(219, 244, 255);
+}
